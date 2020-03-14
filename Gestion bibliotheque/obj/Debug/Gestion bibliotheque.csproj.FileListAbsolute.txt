@@ -1,0 +1,12 @@
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\bin\Debug\Gestion bibliotheque.exe.config
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\bin\Debug\Gestion bibliotheque.exe
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\bin\Debug\Gestion bibliotheque.pdb
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion bibliotheque.csprojAssemblyReference.cache
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion_bibliotheque.Form1.resources
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion_bibliotheque.Properties.Resources.resources
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion bibliotheque.csproj.GenerateResource.cache
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion bibliotheque.exe
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion bibliotheque.pdb
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion_bibliotheque.gestionadherentform.resources
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion_bibliotheque.gestionempruntform.resources
+C:\Users\Pow\source\repos\Gestion bibliotheque\Gestion bibliotheque\obj\Debug\Gestion_bibliotheque.gestionlivreform.resources
